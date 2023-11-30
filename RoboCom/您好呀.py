@@ -1,0 +1,1 @@
+print("Nin Hao Ya ~")
